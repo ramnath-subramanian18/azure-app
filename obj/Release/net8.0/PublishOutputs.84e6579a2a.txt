@@ -1,0 +1,7 @@
+/Users/ramnath/Documents/Azure/leanringapp/bin/Release/net8.0/publish/leanringapp
+/Users/ramnath/Documents/Azure/leanringapp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/ramnath/Documents/Azure/leanringapp/bin/Release/net8.0/publish/appsettings.json
+/Users/ramnath/Documents/Azure/leanringapp/bin/Release/net8.0/publish/leanringapp.dll
+/Users/ramnath/Documents/Azure/leanringapp/bin/Release/net8.0/publish/leanringapp.deps.json
+/Users/ramnath/Documents/Azure/leanringapp/bin/Release/net8.0/publish/leanringapp.runtimeconfig.json
+/Users/ramnath/Documents/Azure/leanringapp/bin/Release/net8.0/publish/leanringapp.pdb
